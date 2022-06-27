@@ -1,0 +1,15 @@
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW2\Task2_3digit_del2nd\bin\Debug\net6.0\Task2_3digit_del2nd.exe
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW2\Task2_3digit_del2nd\bin\Debug\net6.0\Task2_3digit_del2nd.deps.json
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW2\Task2_3digit_del2nd\bin\Debug\net6.0\Task2_3digit_del2nd.runtimeconfig.json
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW2\Task2_3digit_del2nd\bin\Debug\net6.0\Task2_3digit_del2nd.dll
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW2\Task2_3digit_del2nd\bin\Debug\net6.0\Task2_3digit_del2nd.pdb
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW2\Task2_3digit_del2nd\obj\Debug\net6.0\Task2_3digit_del2nd.csproj.AssemblyReference.cache
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW2\Task2_3digit_del2nd\obj\Debug\net6.0\Task2_3digit_del2nd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW2\Task2_3digit_del2nd\obj\Debug\net6.0\Task2_3digit_del2nd.AssemblyInfoInputs.cache
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW2\Task2_3digit_del2nd\obj\Debug\net6.0\Task2_3digit_del2nd.AssemblyInfo.cs
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW2\Task2_3digit_del2nd\obj\Debug\net6.0\Task2_3digit_del2nd.csproj.CoreCompileInputs.cache
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW2\Task2_3digit_del2nd\obj\Debug\net6.0\Task2_3digit_del2nd.dll
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW2\Task2_3digit_del2nd\obj\Debug\net6.0\refint\Task2_3digit_del2nd.dll
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW2\Task2_3digit_del2nd\obj\Debug\net6.0\Task2_3digit_del2nd.pdb
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW2\Task2_3digit_del2nd\obj\Debug\net6.0\Task2_3digit_del2nd.genruntimeconfig.cache
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW2\Task2_3digit_del2nd\obj\Debug\net6.0\ref\Task2_3digit_del2nd.dll
