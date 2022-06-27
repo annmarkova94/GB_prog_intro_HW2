@@ -1,0 +1,15 @@
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW2\Task4_isWeekDay\obj\Debug\net6.0\Task4_isWeekDay.csproj.AssemblyReference.cache
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW2\Task4_isWeekDay\obj\Debug\net6.0\Task4_isWeekDay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW2\Task4_isWeekDay\obj\Debug\net6.0\Task4_isWeekDay.AssemblyInfoInputs.cache
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW2\Task4_isWeekDay\obj\Debug\net6.0\Task4_isWeekDay.AssemblyInfo.cs
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW2\Task4_isWeekDay\obj\Debug\net6.0\Task4_isWeekDay.csproj.CoreCompileInputs.cache
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW2\Task4_isWeekDay\bin\Debug\net6.0\Task4_isWeekDay.exe
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW2\Task4_isWeekDay\bin\Debug\net6.0\Task4_isWeekDay.deps.json
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW2\Task4_isWeekDay\bin\Debug\net6.0\Task4_isWeekDay.runtimeconfig.json
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW2\Task4_isWeekDay\bin\Debug\net6.0\Task4_isWeekDay.dll
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW2\Task4_isWeekDay\bin\Debug\net6.0\Task4_isWeekDay.pdb
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW2\Task4_isWeekDay\obj\Debug\net6.0\Task4_isWeekDay.dll
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW2\Task4_isWeekDay\obj\Debug\net6.0\refint\Task4_isWeekDay.dll
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW2\Task4_isWeekDay\obj\Debug\net6.0\Task4_isWeekDay.pdb
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW2\Task4_isWeekDay\obj\Debug\net6.0\Task4_isWeekDay.genruntimeconfig.cache
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW2\Task4_isWeekDay\obj\Debug\net6.0\ref\Task4_isWeekDay.dll
