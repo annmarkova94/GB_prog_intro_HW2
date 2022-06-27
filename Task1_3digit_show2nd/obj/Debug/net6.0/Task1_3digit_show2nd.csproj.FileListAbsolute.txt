@@ -1,0 +1,15 @@
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW2\Task1_3digit_show2nd\bin\Debug\net6.0\Task1_3digit_show2nd.exe
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW2\Task1_3digit_show2nd\bin\Debug\net6.0\Task1_3digit_show2nd.deps.json
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW2\Task1_3digit_show2nd\bin\Debug\net6.0\Task1_3digit_show2nd.runtimeconfig.json
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW2\Task1_3digit_show2nd\bin\Debug\net6.0\Task1_3digit_show2nd.dll
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW2\Task1_3digit_show2nd\bin\Debug\net6.0\Task1_3digit_show2nd.pdb
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW2\Task1_3digit_show2nd\obj\Debug\net6.0\Task1_3digit_show2nd.csproj.AssemblyReference.cache
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW2\Task1_3digit_show2nd\obj\Debug\net6.0\Task1_3digit_show2nd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW2\Task1_3digit_show2nd\obj\Debug\net6.0\Task1_3digit_show2nd.AssemblyInfoInputs.cache
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW2\Task1_3digit_show2nd\obj\Debug\net6.0\Task1_3digit_show2nd.AssemblyInfo.cs
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW2\Task1_3digit_show2nd\obj\Debug\net6.0\Task1_3digit_show2nd.csproj.CoreCompileInputs.cache
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW2\Task1_3digit_show2nd\obj\Debug\net6.0\Task1_3digit_show2nd.dll
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW2\Task1_3digit_show2nd\obj\Debug\net6.0\refint\Task1_3digit_show2nd.dll
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW2\Task1_3digit_show2nd\obj\Debug\net6.0\Task1_3digit_show2nd.pdb
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW2\Task1_3digit_show2nd\obj\Debug\net6.0\Task1_3digit_show2nd.genruntimeconfig.cache
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW2\Task1_3digit_show2nd\obj\Debug\net6.0\ref\Task1_3digit_show2nd.dll
