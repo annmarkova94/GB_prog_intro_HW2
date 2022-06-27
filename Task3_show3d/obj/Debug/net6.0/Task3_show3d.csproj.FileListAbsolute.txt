@@ -1,0 +1,15 @@
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW2\Task3_show3d\bin\Debug\net6.0\Task3_show3d.exe
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW2\Task3_show3d\bin\Debug\net6.0\Task3_show3d.deps.json
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW2\Task3_show3d\bin\Debug\net6.0\Task3_show3d.runtimeconfig.json
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW2\Task3_show3d\bin\Debug\net6.0\Task3_show3d.dll
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW2\Task3_show3d\bin\Debug\net6.0\Task3_show3d.pdb
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW2\Task3_show3d\obj\Debug\net6.0\Task3_show3d.csproj.AssemblyReference.cache
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW2\Task3_show3d\obj\Debug\net6.0\Task3_show3d.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW2\Task3_show3d\obj\Debug\net6.0\Task3_show3d.AssemblyInfoInputs.cache
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW2\Task3_show3d\obj\Debug\net6.0\Task3_show3d.AssemblyInfo.cs
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW2\Task3_show3d\obj\Debug\net6.0\Task3_show3d.csproj.CoreCompileInputs.cache
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW2\Task3_show3d\obj\Debug\net6.0\Task3_show3d.dll
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW2\Task3_show3d\obj\Debug\net6.0\refint\Task3_show3d.dll
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW2\Task3_show3d\obj\Debug\net6.0\Task3_show3d.pdb
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW2\Task3_show3d\obj\Debug\net6.0\Task3_show3d.genruntimeconfig.cache
+C:\Users\annma\Dropbox\0. Studying\GeekBrains\Homework\3. Знакомство с языками программирования\HW2\Task3_show3d\obj\Debug\net6.0\ref\Task3_show3d.dll
