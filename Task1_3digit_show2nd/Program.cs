@@ -1,4 +1,5 @@
-﻿Console.Write("Write a 3-digit number: ");
+﻿// Take a 3-digit number and delete it's second digit
+Console.Write("Write a 3-digit number: ");
 int numberX = int.Parse(Console.ReadLine());
 while (numberX < 100 || numberX > 999)
 {
